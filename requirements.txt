@@ -1,0 +1,4 @@
+openai>=1.0.0
+ltlf2dfa>=1.0.2
+python-dotenv>=1.0.0  # for .env API keys
+pytest>=7.0.0  # for tests
